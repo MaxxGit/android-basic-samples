@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.example.games.tanc;
+package org.maxx.example.git.tanc;
 
 import android.content.Context;
 import android.content.Intent;

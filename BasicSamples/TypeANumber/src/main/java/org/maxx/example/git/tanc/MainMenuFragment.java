@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.google.example.games.tanc;
+package org.maxx.example.git.tanc;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
