@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.maxx.example.git.tanc;
+package org.maxx.git.git.tanc;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -24,6 +24,8 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
+
+import org.maxx.example.git.tanc.R;
 
 /**
  * Fragment for the gameplay portion of the game. It shows the keypad

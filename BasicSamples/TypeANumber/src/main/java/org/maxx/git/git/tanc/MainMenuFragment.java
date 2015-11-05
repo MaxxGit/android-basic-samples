@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package org.maxx.example.git.tanc;
+package org.maxx.git.git.tanc;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -22,6 +22,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import org.maxx.example.git.tanc.R;
 
 /**
  * Fragment with the main menu for the game. The main menu allows the player

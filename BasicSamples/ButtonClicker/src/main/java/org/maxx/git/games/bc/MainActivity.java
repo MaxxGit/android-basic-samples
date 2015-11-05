@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.google.example.games.bc;
+package org.maxx.git.games.bc;
 
 import android.app.Activity;
 import android.content.Intent;

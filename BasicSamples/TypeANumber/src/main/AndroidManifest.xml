@@ -46,7 +46,7 @@
                    android:value="@integer/google_play_services_version"/>
 
         <activity
-            android:name="org.maxx.example.git.tanc.MainActivity"
+            android:name="org.maxx.git.git.tanc.MainActivity"
             android:label="@string/title_activity_main"
             android:screenOrientation="portrait" >
             <intent-filter>

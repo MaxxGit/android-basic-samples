@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.maxx.example.git.tanc;
+package org.maxx.git.git.tanc;
 
 import android.content.Context;
 import android.content.Intent;
@@ -30,6 +30,8 @@ import com.google.android.gms.games.Games;
 import com.google.android.gms.games.Player;
 import com.google.android.gms.plus.Plus;
 import com.google.example.games.basegameutils.BaseGameUtils;
+
+import org.maxx.example.git.tanc.R;
 
 /**
  * Our main activity for the game.
